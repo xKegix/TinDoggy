@@ -1,2 +1,1 @@
-# TinDoggy
-Website for the app TinDoggy.
+TinDog Starting Files
